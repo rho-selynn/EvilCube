@@ -1,6 +1,6 @@
 # EvilCube
 
-My first UE4 project!
+My first UE4 project! (And re-learning how to use Git!)
 
 
 I followed a tutorial called *Unreal Engine Beginner Tutorial: Building Your First Game* by Devslopes
